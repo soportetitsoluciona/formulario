@@ -149,7 +149,7 @@
                             </select>
                         </div>
                     <button class="nextBtn">
-                        <span class="btnText">Next</span>
+                        <span class="btnText">Siguiente</span>
                         <i class="uil uil-navigator"></i>
                     </button>
                 </div>
